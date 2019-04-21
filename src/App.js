@@ -6,7 +6,7 @@ import Footer from "./components/Footer";
 import About from "./components/About";
 import Contact from './components/Contact'
 
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { HashRouter as Router, Route } from "react-router-dom";
 
 const noImage = "https://www.nocowboys.co.nz/images/v3/no-image-available.png";
 
